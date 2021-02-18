@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nha Do
 - 👀 I’m interested in Digital Signal Processing, Computer Vision, Machine Learning, Data Analysis and Wireless Communication
-- 🌱 I’m currently studying Electrical and Computer Engineering as UCLA
+- 🌱 I’m currently studying Electrical and Computer Engineering at UCLA
 - 📫 Please reach me at: nhado401@gmail.com or nhado401@.ucla.edu
 
 <!---
